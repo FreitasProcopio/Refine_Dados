@@ -1,0 +1,8 @@
+PySide6>=6.6
+pandas>=2.0
+numpy
+openpyxl
+pyarrow
+duckdb>=1.1
+python-calamine>=0.3
+pyinstaller>=6.0

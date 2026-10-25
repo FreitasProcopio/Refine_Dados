@@ -1,0 +1,32 @@
+# Saída do PyInstaller
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dados e resultados locais (nunca versionar bases reais)
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+*.ods
+*.csv
+*.parquet
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+*.log
+receita*.json
+receita*.bat
+saida/
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
